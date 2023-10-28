@@ -7,7 +7,9 @@ Trabalho EP2 Somático
 brew install bwa
 ```
 
-# Instalar samtools
+# titulo 1
+## Titulo 2
+### titulo 3
 
 Esse comando instala o programa samtools.
 ```bash
